@@ -19,6 +19,9 @@
 <br>
 
 ## 1. 마이크를 이용하여 음성에서 텍스트 추출
+
+![image](https://user-images.githubusercontent.com/76896801/107667284-c93bbf00-6cd2-11eb-9061-49575a35740b.png)
+
 - test_mic.py
 
 <br>
@@ -26,8 +29,8 @@
 ## 2. 오디오 파일(.WAV)에서 텍스트 추출
 ### English
 
-![English sample audio file](https://user-images.githubusercontent.com/76896801/107608845-7c2efd00-6c80-11eb-836c-83c8a0f4b7a3.PNG)
 
+![image](https://user-images.githubusercontent.com/76896801/107667859-5c74f480-6cd3-11eb-8709-307ef0b88d8e.png)
 
 #### Python file
 - test_audio_en.py
@@ -39,8 +42,7 @@
 
 ### Korean
 
-
-![image](https://user-images.githubusercontent.com/76896801/107664592-ee7afe00-6ccf-11eb-8f4a-0a69ae57a49d.png)
+![image](https://user-images.githubusercontent.com/76896801/107667859-5c74f480-6cd3-11eb-8709-307ef0b88d8e.png)
 
 #### Python file
 - test_audio_ko.py
