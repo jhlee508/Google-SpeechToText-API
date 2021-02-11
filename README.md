@@ -22,12 +22,15 @@
 
 ![image](https://user-images.githubusercontent.com/76896801/107667284-c93bbf00-6cd2-11eb-9061-49575a35740b.png)
 
+#### Python file
 - test_mic.py
+
+#### Microphone
 
 <br>
 
 ## 2. 오디오 파일(.WAV)에서 텍스트 추출
-### English
+### English(영어)
 
 ![image](https://user-images.githubusercontent.com/76896801/107668081-9cd47280-6cd3-11eb-8125-e673b153cf66.png)
 
@@ -39,7 +42,7 @@
 
 <br>
 
-### Korean
+### Korean(한국어)
 
 ![image](https://user-images.githubusercontent.com/76896801/107667859-5c74f480-6cd3-11eb-8709-307ef0b88d8e.png)
 
