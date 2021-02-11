@@ -29,8 +29,7 @@
 ## 2. 오디오 파일(.WAV)에서 텍스트 추출
 ### English
 
-
-![image](https://user-images.githubusercontent.com/76896801/107667859-5c74f480-6cd3-11eb-8709-307ef0b88d8e.png)
+![image](https://user-images.githubusercontent.com/76896801/107668081-9cd47280-6cd3-11eb-8125-e673b153cf66.png)
 
 #### Python file
 - test_audio_en.py
