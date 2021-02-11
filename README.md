@@ -40,6 +40,7 @@
 ### Korean
 
 
+![image](https://user-images.githubusercontent.com/76896801/107664592-ee7afe00-6ccf-11eb-8f4a-0a69ae57a49d.png)
 
 #### Python file
 - test_audio_ko.py
