@@ -19,11 +19,18 @@ Google Speech-to-text API을 활용하여 오디오에서 텍스트 추출하기
 
 
 ## 2. 오디오 파일(.WAV)에서 텍스트 추출
+### English
+
 ![English sample audio file](https://user-images.githubusercontent.com/76896801/107608845-7c2efd00-6c80-11eb-836c-83c8a0f4b7a3.PNG)
+
+
+#### Python file
 - test_audio.py
-- test_uri.py
 
+#### Sample audio file
+- test.wav
 
+### Korean
 
 
 ---
