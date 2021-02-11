@@ -1,6 +1,7 @@
 # Google-SpeechToText-API
 #### Google Speech-to-text API을 활용하여 오디오에서 텍스트 추출하기
 
+---
 
 ## 구현 환경
 - Ancaconda Virtualenv
