@@ -1,11 +1,13 @@
 # Google-SpeechToText-API
 #### Google Speech-to-text API을 활용하여 오디오에서 텍스트 추출하기
 
----
+<br>
 
 ## 구현 환경
 - Ancaconda Virtualenv
 - Python 3.8.3
+
+<br>
 
 ## 준비 사항
 - Google Cloud Platform
@@ -14,9 +16,12 @@
 - Visual Studio 2015 이상
 - Sample Python file
 
+<br>
+
 ## 1. 마이크를 이용하여 음성에서 텍스트 추출
 - test_mic.py
 
+<br>
 
 ## 2. 오디오 파일(.WAV)에서 텍스트 추출
 ### English
@@ -29,6 +34,8 @@
 
 #### Sample audio file
 - eng_audio.wav
+
+<br>
 
 ### Korean
 
