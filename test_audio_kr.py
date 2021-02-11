@@ -33,7 +33,7 @@ def run_quickstart():
     # The name of the audio file to transcribe
     file_name = os.path.join(
         os.path.dirname(__file__),
-        'eng_audio.wav') # 오디오 파일 주소명
+        'kor_audio.wav')
     # Loads the audio into memory
     with io.open(file_name, 'rb') as audio_file:
         content = audio_file.read()
@@ -41,8 +41,9 @@ def run_quickstart():
 
     config = speech.RecognitionConfig(
         encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
-        sample_rate_hertz=8000,
-        language_code='en-US')
+        sample_rate_hertz=44100,
+        audio_channel_count=2,
+        language_code='ko-KR')
 
     # Detects speech in the audio file
     response = client.recognize(config=config, audio=audio)
